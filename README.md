@@ -1,2 +1,0 @@
-# DnP.gg
-FinalProject
